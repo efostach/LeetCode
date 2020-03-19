@@ -4,6 +4,20 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
 
+/**
+ * Given a non-empty array of integers, every element appears twice except for one. Find that single one.
+ *
+ * Your algorithm should have a linear runtime complexity.
+ *
+ * Examples:
+ *
+ * Input: [2,2,1]
+ * Output: 1
+ *
+ * Input: [4,1,2,1,2]
+ * Output: 4
+ */
+
 class SingleNumber {
 
     public static void main(String[] args) {
