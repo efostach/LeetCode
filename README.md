@@ -21,3 +21,4 @@ Completed solutions to LeetCode problems.
 | x | [Min Stack]() | Easy | [Java]() |
 | x | [Diameter Of Binary Tree]() | Easy | [Java](https://github.com/efostach/LeetCode/blob/master/src/main/java/com/leetcode/DiameterOfBinaryTree.java) |
 | x | [Last Stone Weight]() | Easy | [Java]() |
+| x | [Contiguous Array]() | Easy | [Java]() |
